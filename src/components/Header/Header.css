@@ -1,0 +1,28 @@
+.title {
+  background-color: #904D39;
+  color: #ccbe9a;
+}
+
+.top-banner {
+  display: flex;
+  background-color: #662e2d;
+  height: 500px;
+  justify-content: center;
+  padding: 50px;
+}
+.banner-image {
+  width: 90%;
+}
+
+.secound-banner {
+  padding: 30px;
+  background-color: #c78547;
+  color: #ffff;
+}
+
+.quote {
+  padding: 20px;
+  color: #f9f971d3;
+  margin: 30px;
+  font-size: 20px;
+}

@@ -19,7 +19,7 @@ const Committee = () => {
   };
 
   return (
-    <div className='container committeCart'>
+    <div className='container committeCart '>
       <div className='committee'>
         {committees.map((committee) => (
           <Members
@@ -30,7 +30,7 @@ const Committee = () => {
         ))}
       </div>
 
-      <div>
+      <div className='m-5 cart '>
         {/* {carts.map(cart=><Cart key={cart.id} cart ={cart} ></Cart>) } */}
         <Cart cart={carts}></Cart>
       </div>
