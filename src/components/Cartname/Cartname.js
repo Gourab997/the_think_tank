@@ -1,5 +1,8 @@
 import React from "react";
 import "./Cartname.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCheck } from "@fortawesome/free-solid-svg-icons";
+const element = <FontAwesomeIcon icon={faCheck} />;
 
 const Cartname = (props) => {
   const { image, name } = props.members;
@@ -19,7 +22,10 @@ const Cartname = (props) => {
         </div>
 
         <div>
-          <p>{name}</p>
+          <p>
+            {name} <span className="icons">{element}</span>
+            
+          </p>
         </div>
       </div>
     </div>

@@ -14,7 +14,11 @@ const Committee = () => {
   }, []);
 
   const handleMembers = (commitee) => {
-    const newCart = [...carts, commitee];
+    const newCart = [...carts];
+    const found = carts.find((cart) => cart.id === commitee.id);
+    if (!found) {
+      newCart.push(commitee);
+    }
     setCart(newCart);
   };
 
@@ -31,7 +35,6 @@ const Committee = () => {
       </div>
 
       <div className='m-5 cart '>
-        
         <Cart cart={carts}></Cart>
       </div>
     </div>

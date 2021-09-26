@@ -4,17 +4,19 @@ import Cartname from "../Cartname/Cartname";
 import "./Cart.css";
 const Cart = (props) => {
   const { cart } = props;
-
   let totalQuantity = 0;
   let total = 0;
-  for (const members of cart) {
-    totalQuantity = totalQuantity + 1;
-    total = parseInt(total) + parseInt(members.salary);
-  }
+
+    for (const members of cart) {
+      totalQuantity = totalQuantity + 1;
+      total = parseInt(total) + parseInt(members.salary);
+    }
+  
+
   return (
     <div className='carts  p-5'>
       <div className='cards'>
-        <h className='d-inline'>Members Added : {totalQuantity}</h> <br />
+        <h5 className='d-inline'>Members Added : {totalQuantity}</h5> <br />
         <h6 className='d-inline'>Total Salary: ৳ {total} </h6>
       </div>
 

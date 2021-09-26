@@ -1,3 +1,10 @@
 .cart-name {
   background-color: #ff878a;
 }
+
+.icons {
+  border: 1px solid green;
+  border-radius: 50%;
+  background-color: green;
+  color: aliceblue;
+}
