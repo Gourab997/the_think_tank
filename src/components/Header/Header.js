@@ -5,9 +5,9 @@ const Header = () => {
     <div className='title'>
       <h1>
         The Think Tank {""}
-        <h6 className='d-inline'>
-          <span class='badge bg-secondary'>™</span>{" "}
-        </h6>
+        <span>
+          <p className='badge bg-secondary badges'>™</p>
+        </span>{" "}
       </h1>
 
       <div>

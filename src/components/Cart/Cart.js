@@ -14,7 +14,7 @@ const Cart = (props) => {
   return (
     <div className='carts  p-5'>
       <div className='cards'>
-        <h4>Members Added : {totalQuantity}</h4>
+        <h className='d-inline'>Members Added : {totalQuantity}</h> <br />
         <h6 className='d-inline'>Total Salary: ৳ {total} </h6>
       </div>
 
