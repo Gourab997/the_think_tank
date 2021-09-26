@@ -1,0 +1,110 @@
+[
+    {
+      "id": "1",
+      "name": "Muhammad Yunus",
+      "role": "Chair",
+      "age": "81",
+      "famous_As": "Novelist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Muhammad_Yunus_2.jpg",
+      "salary": "1500000"
+    },
+    {
+      "id": "2",
+      "name": "Muhammed Zafar Iqbal",
+      "role": "Deputy chair",
+      "age": "68",
+      "famous_As": "Author",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Book_Fair_2015_Dhaka_%2816519100026%29.jpg",
+      "salary": "960000"
+    },
+    {
+      "id": "3",
+      "name": "Anisul Hoque",
+      "role": "secretary",
+      "age": "56",
+      "famous_As": "Writter",
+      "image": "https://alchetron.com/cdn/anisul-hoque-494e0157-781d-491f-9646-c88a323a5ef-resize-750.jpeg",
+      "salary": "760000"
+    },
+    {
+      "id": "4",
+      "name": "Syed Shamsul Haque",
+      "role": "treasurer",
+      "age": "85",
+      "famous_As": "Writer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Syed_Shamsul_Haque.png/220px-Syed_Shamsul_Haque.png",
+      "salary": "560000"
+    },
+    {
+      "id": "5",
+      "name": "Mostofa Sarwar Farooki",
+      "role": "team manager",
+      "age": "47",
+      "famous_As": "Director",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJiY2I5MGQtN2M1Zi00Y2IzLWIxZDAtOGU5MjA0NTIyNThlXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg",
+      "salary": "100000"
+    },
+    {
+      "id": "6",
+      "name": "Tahmima Anam",
+      "role": "marketing and promotions officer",
+      "age": "45",
+      "famous_As": "Writer",
+      "image": "https://pbs.twimg.com/profile_images/1351475113481416706/4fe8wPhv.jpg",
+      "salary": "75000"
+    },
+    {
+      "id": "7",
+      "name": "Marzuk Russell",
+      "role": "volunteer coordinator",
+      "age": "48",
+      "famous_As": "Lyricist",
+      "image": "https://pbs.twimg.com/profile_images/967515730705985536/qdF2fZmB.jpg",
+      "salary": "50000"
+    },
+    {
+      "id": "8",
+      "name": "Rubana Huq",
+      "role": "health and safety officer",
+      "age": "57",
+      "famous_As": "Poet",
+      "image": "http://blliss.net/wp-content/uploads/2019/10/Picture_Dr.-Rubana-Huq_-635x800.jpg",
+      "salary": "60000"
+    },
+    {
+      "id": "9",
+      "name": "Salimullah Khan",
+      "role": "Member",
+      "age": "63",
+      "famous_As": "Writer",
+      "image": "https://ulab.edu.bd/wp-content/uploads/upme/1467196421_Salimullah-Khan.jpg",
+      "salary": "50000"
+    },
+    {
+      "id": "10",
+      "name": "Subir Chowdhury",
+      "role": "Member",
+      "age": "54",
+      "famous_As": "Actor",
+      "image": "https://www.thefamouspeople.com/profiles/images/subir-chowdhury-3.jpg",
+      "salary": "45000"
+    },
+    {
+      "id": "11",
+      "name": "Abul Hayat",
+      "role": "Member",
+      "age": "77",
+      "image": "https://cdn.risingbd.com/media/imgAll/2021March/en/abul-hayat-risingbd-2104011357-2104011451.jpg",
+      "famous_As": "Actor",
+      "salary": "40000"
+    },
+    {
+      "id": "12",
+      "name": "Chandan Sen",
+      "role": "Member",
+      "age": "58",
+      "image": "https://i2.cinestaan.com/image-bank/1500-1500/155001-156000/155090.jpg",
+      "famous_As": "Actor",
+      "salary": "30000"
+    }
+  ]

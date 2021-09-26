@@ -1,0 +1,17 @@
+.members{
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.members img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.addmember{
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    background-color: rgb(100, 146, 214);
+    color: aliceblue;
+}
