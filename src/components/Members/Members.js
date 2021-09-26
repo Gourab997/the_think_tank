@@ -21,7 +21,7 @@ const Members = (props) => {
         className='btn draw-border text-info'
         onClick={() => props.handleMembers(props.Committee)}
       >
-        add new Member {element}
+        {element} add new Member
       </button>
     </div>
   );
